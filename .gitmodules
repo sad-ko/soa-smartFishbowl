@@ -1,0 +1,6 @@
+[submodule "android-smartFishbowl"]
+	path = android-smartFishbowl
+	url = git@github.com:sad-ko/android-smartFishbowl.git
+[submodule "esp32-smartFishbowl"]
+	path = esp32-smartFishbowl
+	url = git@github.com:sad-ko/esp32-smartFishbowl.git
